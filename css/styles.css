@@ -453,8 +453,8 @@ margin-top:8px;
     display: flex;
     justify-content: center;
     align-items: center;
-       /* opacity: 1;
-        pointer-events: none;*/
+        opacity: 1;
+        pointer-events: none;
         transition: opacity 250ms ease-in-out;
  }
  .backdrop.is-open{
@@ -475,6 +475,10 @@ margin-top:8px;
 position: absolute;
 top:24px;
 right:24px;
+border-radius: 50%;
+    fill: #e7e9fc;
+    stroke-width: 1px;
+    stroke: rgba(0, 0, 0, 0.1);
 
  }
 
