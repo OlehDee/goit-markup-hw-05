@@ -666,6 +666,14 @@ background-color: #31d0aa;
  .input-email::placeholder{
     color:#ffffff;
  }
+ .footer-input-title{
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-style: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+ }
  .subscribe-btn {
     min-width: 165px;
     height: 40px;
