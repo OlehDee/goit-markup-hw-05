@@ -501,7 +501,8 @@ margin-top:8px;
  .modal-form-icon {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
  }
- .modal-form-icon:hover, .modal-form-icon:focus{
+ .icon-close:hover, 
+ .icon-close:focus{
     fill:#ffffff;
  }
 
