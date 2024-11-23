@@ -498,13 +498,13 @@ margin-top:8px;
     background-color: #404bbf;
     border:none;
  }
+ .modal-btn:hover .modal-form-icon, .modal-btn:focus .modal-form-icon {
+    fill:#ffffff;
+ }
  .modal-form-icon {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
  }
- .icon-close:hover, 
- .icon-close:focus{
-    fill:#ffffff;
- }
+
 
  .modal-caption {
     font-weight: 500;
